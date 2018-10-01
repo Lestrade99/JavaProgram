@@ -36,7 +36,7 @@ public class Program
             String usrWord = temp.nextLine();
             // ----------------------------------------------
             
-            // Condition, testing equality words --------
+            // Condition that testing equality words --------
             if (word.equals(usrWord) == true)
                 System.out.println("You win!");
             else
