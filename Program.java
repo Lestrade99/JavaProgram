@@ -25,7 +25,7 @@ public class Program
 
             // Definition random word from array ------------------------
             Random rnd = new Random(System.currentTimeMillis());
-            int num = rnd.nextInt(11);
+            int num = rnd.nextInt(10);
             String word = words[num];
             // ------------------------------------------------------------------
 
